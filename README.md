@@ -39,7 +39,7 @@ F = (A && B) || (!C && (A || B))
 ├── Codigo fuente/        Sketch de Arduino (.ino)
 ├── Documento/            Informe de la segunda entrega (PDF)
 ├── Proyecto/             Enlace a la simulación en Tinkercad
-├── Video explicativo/    Enlace al video explicativo
+├── Video explicativo/    Video de funcionamiento y enlace
 ├── capturas/             Capturas de entradas, programa, etapa de potencia y pruebas
 └── pruebas/              Tabla de verdad y registro de avances
 ```
@@ -53,7 +53,7 @@ F = (A && B) || (!C && (A || B))
 ## Simulación
 
 - Circuito en Tinkercad: [abrir simulación](https://www.tinkercad.com/things/4VEX9vVvEAo-eic901etapa2sistemaextincionarduinocpp?sharecode=oYl9HFb9AblIeLe8uCefzoiCKroxj-k_aQ0VEF1MGRA)
-- Video explicativo: [Google Drive](https://drive.google.com/file/d/1qmc9fi7ZOSwv25klmq6QZZaIjMEIDyaI/view?usp=sharing)
+- Video explicativo: [Google Drive](https://drive.google.com/file/d/1Dvh1RpTIaOYhMO0_jglJ8dxOFMTtbuXf/view?usp=sharing) · copia local en [Video explicativo/funcionamiento.mp4](Video%20explicativo/funcionamiento.mp4)
 
 ### Mediciones (simulación)
 
