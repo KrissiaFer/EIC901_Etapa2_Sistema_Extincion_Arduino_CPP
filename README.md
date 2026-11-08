@@ -36,24 +36,24 @@ F = (A && B) || (!C && (A || B))
 ## Estructura del repositorio
 
 ```
-├── Codigo fuente/        Sketch de Arduino (.ino)
-├── Documento/            Informe de la segunda entrega (PDF)
-├── Proyecto/             Enlace a la simulación en Tinkercad
-├── Video explicativo/    Video de funcionamiento y enlace
-├── capturas/             Capturas de entradas, programa, etapa de potencia y pruebas
-└── pruebas/              Tabla de verdad y registro de avances
+├── EIC901_Etapa2_Arduino_CPP.ino      Sketch de Arduino
+├── EIC 2026 segunda entrega.pdf       Informe de la segunda entrega
+├── enlace_proyecto.md                 Enlace a la simulación en Tinkercad
+├── Enlace a video.md                  Enlaces a los videos
+├── capturas/                          Capturas de entradas, programa, etapa de potencia y pruebas
+└── pruebas/                           Tabla de verdad y registro de avances
 ```
 
 ## Uso
 
-1. Abrir [Codigo fuente/EIC901_Etapa2_Arduino_CPP.ino](Codigo%20fuente/EIC901_Etapa2_Arduino_CPP.ino) en el Arduino IDE.
+1. Abrir [EIC901_Etapa2_Arduino_CPP.ino](EIC901_Etapa2_Arduino_CPP.ino) en el Arduino IDE.
 2. Seleccionar la placa **Arduino UNO** y cargar el programa.
 3. Abrir el Monitor Serial a **115200 baudios** para ver el estado de `A`, `B`, `C` y `F` cada 500 ms.
 
 ## Simulación
 
 - Circuito en Tinkercad: [abrir simulación](https://www.tinkercad.com/things/4VEX9vVvEAo-eic901etapa2sistemaextincionarduinocpp?sharecode=oYl9HFb9AblIeLe8uCefzoiCKroxj-k_aQ0VEF1MGRA)
-- Video explicativo: [Google Drive](https://drive.google.com/file/d/1Dvh1RpTIaOYhMO0_jglJ8dxOFMTtbuXf/view?usp=sharing) · copia local en [Video explicativo/funcionamiento.mp4](Video%20explicativo/funcionamiento.mp4)
+- Video explicativo: [Google Drive](https://drive.google.com/file/d/1Dvh1RpTIaOYhMO0_jglJ8dxOFMTtbuXf/view?usp=sharing) · más enlaces en [Enlace a video.md](Enlace%20a%20video.md)
 
 ### Mediciones (simulación)
 
