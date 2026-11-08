@@ -63,6 +63,14 @@ F = (A && B) || (!C && (A || B))
 
 > Las lecturas provienen de la simulación y no sustituyen la verificación de la corriente de arranque en un montaje real.
 
-## Autora
+## Integrantes
 
-Krissia Eguizabal — EIC901, 2026
+| Nombre | Carné |
+|---|---|
+| Oscar Danilo Rivera Bernal | RB130430 |
+| Moises David Garcia Casco | GC251462 |
+| Daniela Fernanda Tamayo Jovel | TJ231470 |
+| Cesar Ernesto Perdomo Guerrero | PG241690 |
+| Krissia Lissette Eguizabal Fernandez | EF251345 |
+
+Universidad Don Bosco · Electrónica Aplicada al Internet de las Cosas (EIC901) · Docente: Ing. Eduardo Antonio Henriquez · 2026
